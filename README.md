@@ -1,10 +1,9 @@
 # HEA (TIL)
 > *Hoje eu aprendi (Today i learn)*
 
-<center>
-<img src="https://www.fapcom.edu.br/wp-content/uploads/2017/04/estudando.gif" alt="gif">
-</center>
-<br/><br/>
+<img src="https://www.fapcom.edu.br/wp-content/uploads/2017/04/estudando.gif" alt="gif" align="center">
+
+<br/>
 Este repositório é uma espécie de mapa do meu aprendizado, conteúdos que acabei de conhecer ou que ando revisando.
 
 ## Tópicos
