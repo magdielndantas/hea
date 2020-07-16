@@ -12,7 +12,7 @@ Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a te
 - [HTML](#HTML)
 
 ### HTML
-- [Html semântico](./html/html-semantic.md)
+- [Html semântico](/html/html-semantic.md)
 
 ## Como usar
 
