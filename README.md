@@ -1,5 +1,5 @@
 # HEA (TIL)
-> *Hoje eu aprendi (Today i learn)*
+> *Hoje eu aprendi (Today I Learned)*
 
 Este repositório é um mapa do meu aprendizado, conteúdos que acabei de conhecer ou que ando revisando, além de uma coleção de pequenos artigos que não justificam uma publicação completa em blog.
 
