@@ -1,28 +1,35 @@
 # HEA (TIL)
 > *Hoje eu aprendi (Today i learn)*
 
-<img src="https://www.fapcom.edu.br/wp-content/uploads/2017/04/estudando.gif" alt="gif" align="center">
+Este repositório é um mapa do meu aprendizado, conteúdos que acabei de conhecer ou que ando revisando, além de uma coleção de pequenos artigos que não justificam uma publicação completa em blog.
 
-<br/>
-Este repositório é uma espécie de mapa do meu aprendizado, conteúdos que acabei de conhecer ou que ando revisando.
+Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a ter essa ideia.
 
-## Tópicos
+*1 HEA e contando...*
 
-Segue a lista com os tópicos que estudei
+## Categorias
 
-- HTML
-   * 
-- CSS
-- Javascript
+- [GitHub](#GitHub)
+- [HTML](#HTML)
 
+
+### GitHub
+
+### HTML
+- Html semântico
 
 ## Como usar
 
-Para fazer mais do que apenas uma lista de conteúdos que visitei, cada tópico terá uma pasta com nome equivalente e dentro dela haverá arquivos *.md* com uma breve explicação, com minhas palavras, sobre o que o tópico.
+Para fazer mais do que apenas uma lista de conteúdos que visitei, cada tópico terá uma pasta com nome equivalente e dentro dela haverá arquivos *.md* com uma breve explicação, com minhas palavras, sobre o que o tópico. Se gostou e quer saber como ajudar clique [aqui](#comocontribuir).
 
 ## Como contribuir
 
 Eu gostaria de manter este repositório  sob cuidado pessoal, afinal são sobre coisas que aprendi. Mas se você gostaria de compartilhar algum conteúdo comigo basta criar uma **issue**, dessa forma poderei conferir e assim adicionar ao meu mapa de aprendizagem!
 
+Porém se ainda assim quiser contribuir mais, que tal traduzir o repositório para um idioma de sua escolha? Clique [aqui](https://github.com/magdielndantas/hea) e saiba como.
+
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+© 2020 Magdiel Dantas
+
+This repository is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
