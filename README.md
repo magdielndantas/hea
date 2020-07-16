@@ -9,18 +9,14 @@ Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a te
 
 ## Categorias
 
-- [GitHub](#GitHub)
 - [HTML](#HTML)
 
-
-### GitHub
-
 ### HTML
-- Html semântico
+- [Html semântico](./html/html-semantic.html)
 
 ## Como usar
 
-Para fazer mais do que apenas uma lista de conteúdos que visitei, cada tópico terá uma pasta com nome equivalente e dentro dela haverá arquivos *.md* com uma breve explicação, com minhas palavras, sobre o que o tópico. Se gostou e quer saber como ajudar clique [aqui](#comocontribuir).
+Para fazer mais do que apenas uma lista de conteúdos que visitei, cada tópico terá uma pasta com nome equivalente e dentro dela haverá arquivos *.md* com uma breve explicação, com minhas palavras, sobre o que o tópico. Se gostou e quer saber como ajudar clique [aqui](#como-contribuir).
 
 ## Como contribuir
 
