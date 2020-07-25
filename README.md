@@ -9,7 +9,11 @@ Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a te
 
 ## Categorias
 
+- [CSS](#CSS)
 - [HTML](#HTML)
+
+### HTML
+- [Seletor :root](/css/seletor-root.md)
 
 ### HTML
 - [Html semântico](/html/html-semantico.md)
