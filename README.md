@@ -17,6 +17,7 @@ Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a te
 
 ### HTML
 - [Html semântico](/html/html-semantico.md)
+- [Atributo Alt](/html/atributo-alt.md)
 
 ## Como usar
 
