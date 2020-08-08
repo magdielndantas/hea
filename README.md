@@ -12,7 +12,8 @@ Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a te
 - [CSS](#CSS)
 - [HTML](#HTML)
 
-### HTML
+### CSS
+- [Não remova o outline](/css/nao-remova-o-outline.md)
 - [Seletor :root](/css/seletor-root.md)
 
 ### HTML
