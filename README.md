@@ -5,12 +5,13 @@ Este repositório é um mapa do meu aprendizado, conteúdos que acabei de conhec
 
 Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a ter essa ideia.
 
-*1 HEA e contando...*
+*5 HEA e contando...*
 
 ## Categorias
 
 - [CSS](#CSS)
 - [HTML](#HTML)
+- [jQuery](#jQuery)
 
 ### CSS
 - [Não remova o outline](/css/nao-remova-o-outline.md)
@@ -19,6 +20,10 @@ Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a te
 ### HTML
 - [Html semântico](/html/html-semantico.md)
 - [Atributo Alt](/html/atributo-alt.md)
+
+### jQuery
+
+- [O que é?](/jquery/o-que-e.md)
 
 ## Como usar
 
