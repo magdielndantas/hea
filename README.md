@@ -5,7 +5,7 @@ Este repositório é um mapa do meu aprendizado, conteúdos que acabei de conhec
 
 Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a ter essa ideia.
 
-*5 HEA e contando...*
+*6HEA e contando...*
 
 ## Categorias
 
@@ -26,7 +26,7 @@ Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a te
 - [O que é?](/jquery/o-que-e.md)
 
 ### Pacotes
-- react-loading-skeleton.md(/pacotes/react-loading-skeleton.md)
+- [react-loading-skeleton](/pacotes/react-loading-skeleton.md)
 
 ## Como usar
 
