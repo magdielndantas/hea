@@ -12,6 +12,7 @@ Agradeço a [jbranchaud](https://github.com/jbranchaud/til) por me inspirar a te
 - [CSS](#CSS)
 - [HTML](#HTML)
 - [jQuery](#jQuery)
+- [Pacotes](#Pacotes)
 
 ### CSS
 - [Não remova o outline](/css/nao-remova-o-outline.md)
